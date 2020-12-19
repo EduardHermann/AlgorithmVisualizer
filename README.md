@@ -1,5 +1,7 @@
-#
+# AlgorithmVisualizer
 
-# How to start the programm
+## Description
 
-# What I have learned from this project
+## How to start the programm
+
+## What I have learned from this project
