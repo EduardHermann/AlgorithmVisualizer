@@ -12,5 +12,5 @@
 
 ## What I have learned from this project
 
-- basic algorithms
-- 
+- Basic algorithms
+- Creating a visualization
