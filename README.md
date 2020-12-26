@@ -8,6 +8,9 @@
 
 ## How to start the programm
 - Double click on the "AlgorithmVisualizer.jar" file.
-- !!!Attention, you need at least Java 1.8 in oder to correctly start the programm and windows has to be installed on your pc!!!
+- !!!Attention, you need at least Java 1.8 and windows installed on your pc in order to correctly start my program!!!
 
 ## What I have learned from this project
+
+- basic algorithms
+- 
