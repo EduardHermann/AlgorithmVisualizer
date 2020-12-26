@@ -11,6 +11,5 @@
 - !!!Attention, you need at least Java 1.8 and windows installed on your pc in order to correctly start my program!!!
 
 ## What I have learned from this project
-
 - Basic algorithms
 - Creating a visualization
