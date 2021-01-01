@@ -11,7 +11,7 @@
 
 - Double click on the "AlgorithmVisualizer.jar" file.
 - !!!Attention, you need at least Java 1.8 and windows installed on your pc in order to correctly start my program!!!
-- !!!Read the information from the "Info!" Button in my programm!!!
+- !!!Read the information from the "Info!" Button in my program!!!
 
 ## What I have learned from this project
 
