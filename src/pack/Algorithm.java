@@ -280,7 +280,7 @@ public class Algorithm {
   }
 
   /**
-   * Gets one index from an Array by searching the given value.
+   * Gets one index from an Array by searching for the given value.
    */
   private int getIndexByValue(int[] MyArray, int value) {
     for (int i = 0; i < MyArray.length; i++) {
