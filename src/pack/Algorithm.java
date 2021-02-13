@@ -242,14 +242,14 @@ public class Algorithm {
   }
 
   /**
-   * Sets the X-Coordinate of the first arrow.
+   * Sets the X-Coordinate of an arrow.
    */
   private void setArrowsX(int index) {
     arrowX = BARWIDTH * index;
   }
 
   /**
-   * Sets the Y-Coordinate of the arrows.
+   * Sets the Y-Coordinate of an arrow.
    */
   private void setArrowsY(int index) {
     arrowY1 = 440 - theArray[index] - ARROWHIGHT;
