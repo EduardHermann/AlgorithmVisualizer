@@ -41,7 +41,7 @@ public class Main {
       main.frame.setVisible(true);
     } catch (Exception e) {
       e.printStackTrace();
-      System.out.println("The initialisation went wrong!");
+      System.out.println("An error occurred while trying to start the program!");
     }
   }
 
@@ -121,9 +121,9 @@ public class Main {
       public void actionPerformed(ActionEvent e) {
         JOptionPane.showMessageDialog(null,
             "1) The button NEW shouldn't be used whenever an algorithm is currently running! \n"
-                + "2) Don't run more then one algorithm at once! \n"
-                + "3) Don't run the same algorithm more then once at a time!\n"
-                + "4) If you accidentally did one of these mistakes. Please restart the program.",
+                + "2) Don't run more than one algorithm at once! \n"
+                + "3) Don't run the same algorithm more than once at a time!\n"
+                + "4) If you accidentally did one of these mistakes, restart the program in order to make it run correctly.",
             "Info", JOptionPane.INFORMATION_MESSAGE);
       }
     });
