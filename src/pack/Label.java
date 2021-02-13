@@ -36,7 +36,7 @@ public class Label extends JLabel {
       arrow_red = ImageIO.read(getClass().getClassLoader().getResource("Arrows/arrow_red.png"));
     } catch (IOException e) {
       e.printStackTrace();
-      System.out.println("The images couldn't be found!");
+      System.out.println("The images couldn't be read in!");
     }
   }
 
