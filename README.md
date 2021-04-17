@@ -15,7 +15,7 @@
 
 ## Notes
 
-- The
+- The "Improved_Algorithm_Visualizer.zip" contains a german documentation.
 
 ## What I have learned from this project
 
