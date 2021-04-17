@@ -13,6 +13,10 @@
 - !!!Attention, you need at least Java 1.8 and windows installed on your pc in order to correctly start my program!!!
 - !!!Read the information from the "Info!" button in my program!!!
 
+## Notes
+
+- The
+
 ## What I have learned from this project
 
 - Basic algorithms
