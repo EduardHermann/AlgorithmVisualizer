@@ -1,4 +1,4 @@
-# AlgorithmVisualizer
+# SortingAlgorithmVisualizer
 
 ## Description
 
